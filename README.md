@@ -122,11 +122,22 @@ Key visuals included in `/visuals` and demonstrated in the notebook:
 1. **Top 10 Cuisines (bar chart)** — frequency of restaurants by cuisine.  
 2. **Distribution of Ratings (histogram + KDE)** — overall quality distribution.  
 3. **Boxplot: Avg cost for two by Area (top areas)** — shows cost spread and outliers (great for comparing affordability vs luxury).  
-4. **Top 10 Areas by Restaurant Count (bar)** — food hub density visualization.  
+4. **Top 10 Areas by Restaurant Count (bar)** — food hub density visualization.  <img width="589" height="478" alt="Screenshot 2025-09-03 at 9 39 42 AM" src="https://github.com/user-attachments/assets/7e79e7fe-e035-4293-94e7-01f70822a723" />
+<img width="589" height="460" alt="Screenshot 2025-09-03 at 9 39 56 AM" src="https://github.com/user-attachments/assets/7a052f21-f33f-41ef-9c30-a9be8e2ac4df" />
+<img width="923" height="539" alt="Screenshot 2025-09-03 at 9 40 16 AM" src="https://github.com/user-attachments/assets/cf6ab314-a697-4e52-8c82-8e8c5c972da6" />
+<img width="1122" height="542" alt="Screenshot 2025-09-03 at 9 41 42 AM" src="https://github.com/user-attachments/assets/403421fc-5946-4478-ad15-d03d82f6d0f1" />
+<img width="1122" height="542" alt="Screenshot 2025-09-03 at 9 42 22 AM" src="https://github.com/user-attachments/assets/4d46b80f-e95c-474a-bc5a-ec7f3b68c37e" />
+
 5. **Pie/Donut Chart: Online Order Support** — delivery penetration.  
 6. **Optional Map**: If coordinates are available / geocoded, map restaurants colored by average rating or price.
+<img width="1065" height="550" alt="Screenshot 2025-09-03 at 9 39 07 AM" src="https://github.com/user-attachments/assets/44bc7b19-ba7b-4e93-9b6e-b1c2ca436141" />
+<img width="722" height="558" alt="Screenshot 2025-09-03 at 9 39 26 AM" src="https://github.com/user-attachments/assets/d72cd39a-5b9b-4635-b422-46<img width="1496" height="436" alt="Screenshot 2025-09-03 at 10 20 28 AM" src="https://github.com/user-attachments/assets/59aebe6a-deb4-40f3-abc8-b46dcf43b3d0" />
+0955841440" />
 
-All visuals are exported as PNGs to `/visuals` for display on GitHub and LinkedIn posts.
+
+<img width="988" height="537" alt="Screenshot 2025-09-03 at 9 45 54 AM" src="https://github.com/user-attachments/assets/14e9ea16-c66a-4ad2-a4cb-97c62630364d" />
+<img width="1052" height="794" alt="Screenshot 2025-09-03 at 9 46 29 AM" src="https://github.com/user-attachments/assets/a9d25e91-7c07-43e3-abb0-e32f8d39f834" />
+<img width="1296" height="729" alt="Screenshot 2025-09-03 at 9 52 04 AM" src="https://github.com/user-attachments/assets/de9af9c3-865c-4952-a520-a669640e90f3" />
 
 ---
 
